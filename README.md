@@ -11,7 +11,9 @@ Never tested on MacOS/Darwin! =(!
 ```bash
 git clone https://github.com/icoder-new/brainfuck
 cd ./brainfuck
-make && ./bf helloworld.bf
+g++ -Wall interpreter.cpp -o bf
+gcc -Wall bf2c.c -o bf2c
+./bf helloWorld.bf
 ```
 
 __Windows__:
