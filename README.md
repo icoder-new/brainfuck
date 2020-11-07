@@ -1,4 +1,4 @@
-# Brainf#ck
+# Brainfuck
 
 ## About
 Simple interpreter brainfuck on C++! Work on any OS.
