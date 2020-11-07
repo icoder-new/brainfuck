@@ -1,7 +1,7 @@
 # Brainf#ck
 
 ## About
-Simple interpreter brainfuck on C++! Work for all OS.
+Simple interpreter brainfuck on C++! Work on any OS.
 Tested on Windows and on [Linux](https://github.com/torvalds/linux), too!
 Never tested on MacOS/Darwin! =(!
 
